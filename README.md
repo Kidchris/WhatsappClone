@@ -1,4 +1,4 @@
-# WhatsappClone WireFrame
+# WhatsappClone
 
 
 <img src="./1.png">
